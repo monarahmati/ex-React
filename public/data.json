@@ -1,0 +1,195 @@
+{
+    "Operations":
+        [
+            {
+                "id": 1,
+                "firstName": "علی",
+                "lastName": "احمدی",
+                "title": "مهندس تولید"
+            },
+            {
+                "id": 2,
+                "firstName": "فاطمه",
+                "lastName": "کریمی",
+                "title": "کارشناس کنترل کیفیت"
+            },
+            {
+                "id": 3,
+                "firstName": "حسین",
+                "lastName": "رضایی",
+                "title": "تکنسین نگهداری و تعمیرات"
+            },
+            {
+                "id": 4,
+                "firstName": "زهرا",
+                "lastName": "سلیمانی",
+                "title": "کارشناس برنامه‌ریزی تولید"
+            },
+            {
+                "id": 5, "firstName": "محمد", "lastName": "موسوی", "title": "مهندس صنایع" },
+            {
+                "id": 6, "firstName": "نرجس", "lastName": "طباطبایی", "title": "کارشناس ایمنی" },
+            {
+                "id": 7, "firstName": "امیر", "lastName": "حسینی", "title": "کارگر تولید" },
+            {
+                "id": 8, "firstName": "مریم", "lastName": "جعفری", "title": "کارشناس انبارداری" },
+            {
+                "id": 9, "firstName": "رضا", "lastName": "قاسمی", "title": "مهندس مکانیک" },
+            {
+                "id": 10, "firstName": "آزاده", "lastName": "نوروزی", "title": "کارشناس لجستیک" }
+    ],
+    "Marketing":[
+        {
+            "id": 11,
+            "firstName": "علی",
+            "lastName": "رضایی",
+            "title": "کارشناس فروش"
+        },
+        {
+            "id": 12,
+            "firstName": "فاطمه",
+            "lastName": "موسوی",
+            "title": "مدیر بازاریابی"
+        },
+        {
+            "id": 13,
+            "firstName": "حسین",
+            "lastName": "حسینی",
+            "title": "کارشناس دیجیتال مارکتینگ"
+        },
+        {
+            "id": 14, "firstName": "زهرا", "lastName": "سلیمانی", "title": "کارشناس فروش تلفنی" },
+        {
+            "id": 15, "firstName": "محمد", "lastName": "طباطبایی", "title": "مدیر فروش منطقه‌ای" },
+        {
+            "id": 16, "firstName": "نرجس", "lastName": "کریمی", "title": "کارشناس روابط عمومی" },
+        {
+            "id": 17, "firstName": "امیر", "lastName": "رضایی", "title": "کارشناس محتوا" },
+        {
+            "id": 18, "firstName": "مریم", "lastName": "موسوی", "title": "کارشناس تحلیل بازار" },
+        {
+            "id": 19, "firstName": "رضا", "lastName": "حسینی", "title": "کارشناس فروش آنلاین" },
+        {
+            "id": 20, "lastName": "آزاده", "lastName": "سلیمانی", "title": "مدیر فروش" }
+    ],
+    "Supports":[
+        {"id": 21, "firstName": "علی", "lastName": "حسینی", "title": "کارشناس پشتیبانی فنی"},
+        {"id": 22, "firstName": "فاطمه", "lastName": "رضایی", "title": "کارشناس پشتیبانی مشتریان"},
+        {"id": 23, "firstName": "حسین", "lastName": "موسوی", "title": "کارشناس پشتیبانی سیستم"},
+        {"id": 24, "firstName": "زهرا", "lastName": "طباطبایی", "title": "کارشناس پشتیبانی نرم افزار"},
+        {"id": 25, "firstName": "محمد", "lastName": "کریمی", "title": "سرپرست تیم پشتیبانی"},
+        {"id": 26, "firstName": "نرجس", "lastName": "سلیمانی", "title": "کارشناس پشتیبانی سخت افزار"},
+        {"id": 27, "firstName": "امیر", "lastName": "رضایی", "title": "کارشناس پشتیبانی شبکه"},
+        {"id": 28, "firstName": "مریم", "lastName": "موسوی", "title": "کارشناس پشتیبانی راه دور"},
+        {"id": 29, "firstName": "رضا", "lastName": "حسینی", "title": "کارشناس پشتیبانی آموزش"},
+        {"id": 30, "lastName": "آزاده", "lastName": "سلیمانی", "title": "کارشناس پشتیبانی فنی ارشد" }
+    ],
+    "technicalSupport":[
+        {
+            "id": 101,
+            "firstName": "علی",
+            "lastName": "حسینی",
+            "title": "تکنسین سخت‌افزار",
+            "hireDate": "2023-01-15",
+            "expertise": "سرورهای HP",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 102,
+            "firstName": "فاطمه",
+            "lastName": "رضایی",
+            "title": "مهندس شبکه",
+            "hireDate": "2022-05-10",
+            "expertise": "روترهای Cisco",
+            "accessLevel": "مدیر"
+        },
+        {
+            "id": 103,
+            "firstName": "حسین",
+            "lastName": "موسوی",
+            "title": "تکنسین سخت‌افزار ارشد",
+            "hireDate": "2021-11-01",
+            "expertise": "تعمیر لپ‌تاپ",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 104,
+            "firstName": "زهرا",
+            "lastName": "سلیمانی",
+            "title": "کارشناس پشتیبانی نرم‌افزار",
+            "hireDate": "2023-03-20",
+            "expertise": "نرم‌افزارهای آفیس 365",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 105,
+            "firstName": "محمد",
+            "lastName": "طباطبایی",
+            "title": "مهندس امنیت شبکه",
+            "hireDate": "2022-08-15",
+            "expertise": "فایروال‌ها",
+            "accessLevel": "مدیر"
+        },
+        {
+            "id": 106,
+            "firstName": "نرجس",
+            "lastName": "کریمی",
+            "title": "تکنسین سخت‌افزار",
+            "hireDate": "2023-02-05",
+            "expertise": "مونیتورینگ سیستم‌ها",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 107,
+            "firstName": "امیر",
+            "lastName": "رضایی",
+            "title": "کارشناس پشتیبانی نرم‌افزار",
+            "hireDate": "2022-12-20",
+            "expertise": "پایگاه داده‌های SQL",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 108,
+            "firstName": "مریم",
+            "lastName": "موسوی",
+            "title": "مهندس شبکه",
+            "hireDate": "2021-09-15",
+            "expertise": "شبکه‌های بی‌سیم",
+            "accessLevel": "مدیر"
+        },
+        {
+            "id": 109,
+            "firstName": "رضا",
+            "lastName": "حسینی",
+            "title": "تکنسین سخت‌افزار",
+            "hireDate": "2023-04-10",
+            "expertise": "پرینترها و اسکنرها",
+            "accessLevel": "کاربر"
+        },
+        {
+            "id": 110,
+            "firstName": "آزاده",
+            "lastName": "سلیمانی",
+            "title": "کارشناس پشتیبانی نرم‌افزار",
+            "hireDate": "2022-11-25",
+            "expertise": "نرم‌افزارهای حسابداری",
+            "accessLevel": "کاربر"
+        }
+    ],
+    "support_staff":[
+        {"id": 201, "firstName": "علی", "lastName": "حسینی", "title": "کارشناس پشتیبانی مشتری"},
+        {"id": 202, "firstName": "فاطمه", "lastName": "رضایی", "title": "سرپرست تیم پشتیبانی"},
+        {"id": 203, "firstName": "حسین", "lastName": "موسوی", "title": "کارشناس ارشد پشتیبانی"},
+        {"id": 204, "firstName": "زهرا", "lastName": "سلیمانی", "title": "کارشناس پشتیبانی اول"},
+        {"id": 205, "firstName": "محمد", "lastName": "طباطبایی", "title": "کارشناس پشتیبانی دوم"},
+        {"id": 206, "firstName": "نرجس", "lastName": "کریمی", "title": "کارشناس پشتیبانی سوم"},
+        {"id": 207, "firstName": "امیر", "lastName": "رضایی", "title": "کارشناس پشتیبانی چهارم"},
+        {"id": 208, "firstName": "مریم", "lastName": "موسوی", "title": "کارشناس پشتیبانی پنجم"},
+        {"id": 209, "firstName": "رضا", "lastName": "حسینی", "title": "کارشناس پشتیبانی ششم"},
+        {"id": 210, "firstName": "آزاده", "lastName": "سلیمانی", "title": "کارشناس پشتیبانی هفتم"}
+    ],
+    "remote":[
+        {"id": 301, "firstName": " علی", "lastName": "حسینی", "title": "دورکاری -کارشناس پشتیبانی مشتری"},
+        {"id": 302, "firstName": "فاطمه", "lastName": "رضایی", "title": "دورکاری - سرپرست تیم پشتیبانی"}
+    ]
+}
